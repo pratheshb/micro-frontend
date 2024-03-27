@@ -6,7 +6,7 @@ export function App() {
     <header>
         <nav>
             <ul>
-                <li>App</li>
+                <li>App Name</li>
                 <li>Login</li>
             </ul>
         </nav>
