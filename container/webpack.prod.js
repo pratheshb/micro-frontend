@@ -8,6 +8,7 @@ const PROD_CONFIG = {
     output: {
         filename: '[name].[contenthash].js',
         clean: true,
+        publicPath: '/container/latest/'
     },
     plugins: [
         new ModuleFederationPlugin({
